@@ -5,6 +5,3 @@
 *.env
 .env
 .env.*
-
-package-lock.json
-public
